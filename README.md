@@ -7,6 +7,8 @@ Used PS2EXE (https://github.com/MScholtes/PS2EXE) to compile into an exe file.
 
 If you would like to see more stuff to be added to this program, post an issue, will look into it as soon as possible
 
+Note: This will delete all the existing microsoft store apps, you may have to reinstall some apps you want.
+
 
 # Usage
 
