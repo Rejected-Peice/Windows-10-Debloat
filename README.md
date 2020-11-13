@@ -1,3 +1,7 @@
+# Warning
+I do not take responsibility for what may happen to your system. This is at your own risk.
+
+
 # Windows-10-Debloat
 Mixing of some existing debloat scripts and adding some more spice to it!!
 
